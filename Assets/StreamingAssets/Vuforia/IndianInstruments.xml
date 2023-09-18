@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Harmonium" size="5.000000 5.000000" />
+    <ImageTarget name="Bansuri" size="5.000000 5.000000" />
+    <ImageTarget name="TablaTracker" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
