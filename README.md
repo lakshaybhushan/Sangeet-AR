@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  
-<img src ="https://github.com/lakshaybhushan/SangeetAR/assets/74349407/af4cbc0d-2bac-449c-b7af-89d8d759c797" width="500">
+
+<br>
+<img src ="https://github.com/lakshaybhushan/Sangeet-AR/assets/74349407/1638e3f8-1d70-4056-8475-05dbbe9c2cec" width="600">
 
 </p>
-
