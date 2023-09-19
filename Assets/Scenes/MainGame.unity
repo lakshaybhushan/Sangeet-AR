@@ -658,8 +658,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000020981, y: 0}
-  m_SizeDelta: {x: 368.2668, y: 50.5376}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 336.8789, y: 48.7499}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &735471869
 MonoBehaviour:
@@ -681,10 +681,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scan the AR cards
+  m_text: Show the AR Card
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 762ae666b0500426b9861d776c196aa6, type: 2}
-  m_sharedMaterial: {fileID: -7797779849682326476, guid: 762ae666b0500426b9861d776c196aa6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b7a0dcacf99774946912a1fa8417c864, type: 2}
+  m_sharedMaterial: {fileID: 5504270618374308099, guid: b7a0dcacf99774946912a1fa8417c864, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -715,8 +715,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1457,7 +1457,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000095367, y: 760}
+  m_AnchoredPosition: {x: 0.0000095367, y: -0.62507}
   m_SizeDelta: {x: 220.3208, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1042326310
@@ -1482,15 +1482,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Tap to Play
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 762ae666b0500426b9861d776c196aa6, type: 2}
-  m_sharedMaterial: {fileID: -7797779849682326476, guid: 762ae666b0500426b9861d776c196aa6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b7a0dcacf99774946912a1fa8417c864, type: 2}
+  m_sharedMaterial: {fileID: 5504270618374308099, guid: b7a0dcacf99774946912a1fa8417c864, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 16777215
+  m_fontColor: {r: 1, g: 1, b: 1, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1514,8 +1514,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
